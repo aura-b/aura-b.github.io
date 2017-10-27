@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>teaching</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Teaching</h1>
+        <p></p>
+
+
+        <p class="view"><a href="https://github.com/aura-b">View My GitHub Profile</a></p>
+
+      </header>
+      <section>
+        <h1>
+
+<p>Here is a collection of some of my student's work</p>
+<h3>Madlibs</h3>
+<iframe src="https://trinket.io/embed/python/aa0c161556" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<h3>Slot Machine using Trees</h3>
+<iframe src="https://trinket.io/embed/python/027a7a0b03" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<Text Adventure Game: Art Museum Heist</h3>
+<iframe src="https://trinket.io/embed/python/786f3f865d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
